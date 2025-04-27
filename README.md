@@ -1,16 +1,5 @@
 # paper_gen
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A new project that generates a random question paper of three subjects that are maths, general knowledge and aptitude and reasoning, 
+The app is fully personalised with authentication supported by firebase and has a functionality to save the generated question papers to local storage, 
+These question papers can be accessed through our app only
