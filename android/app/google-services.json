@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "72439715330",
+    "project_id": "paper-gen-97dfd",
+    "storage_bucket": "paper-gen-97dfd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72439715330:android:6110274bb333168009b91b",
+        "android_client_info": {
+          "package_name": "com.example.paper_gen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB7KOPI12HCkHCWikAXCagAGs21-EHUGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
